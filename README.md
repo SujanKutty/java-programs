@@ -23,3 +23,6 @@ the name of the weekday. [Weekday.java](https://github.com/SujanKutty/java-progr
 20. Program to compute the compound interest. [CompoundInterest.java](https://github.com/SujanKutty/java-programs/blob/main/module1/CompoundInterest.java)
 21. Program to compute the simple interest. [SimpleInterest.java](https://github.com/SujanKutty/java-programs/blob/main/module1/SimpleInterest.java)
 22. Program to check wheter a given number is an even or an odd number. [EvenOdd.java](https://github.com/SujanKutty/java-programs/blob/main/module1/EvenOdd.java)
+
+#Module2
+1.Program to read the comman line arguments and print the total number of arguments and its values. [CommandLineAgu.java](
