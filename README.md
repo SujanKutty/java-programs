@@ -26,4 +26,5 @@ the name of the weekday. [Weekday.java](https://github.com/SujanKutty/java-progr
 
 # Module 2:
 
-1.Program to read the comman line arguments and print the total number of arguments and its values. [CommandLineAgu.java](https://github.com/SujanKutty/java-programs/blob/main/Module2/CommandLineAgu)
+1. Program to read the comman line arguments and print the total number of arguments and its values. [CommandLineAgu.java](https://github.com/SujanKutty/java-programs/blob/main/Module2/CommandLineAgu)
+2. Program to pass the variable length arguments.[VariableLenArgu.java](https://github.com/SujanKutty/java-programs/blob/main/Module2/VariableLenArgu.java)
