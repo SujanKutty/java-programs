@@ -15,6 +15,6 @@ class ConstructorOverloading
 public static void main(String[] args) 
 	{
   		ConstructorOverloading p1 = new ConstructorOverloading(); // Non-parameterized constructor.
-  		ConstructorOverloading p2 = new ConstructorOverloading("Dr. Saket"); // One parameterized constructor.
+  		ConstructorOverloading p2 = new ConstructorOverloading("Prof.Sujan Vulasala"); // One parameterized constructor.
 	}
 } 
